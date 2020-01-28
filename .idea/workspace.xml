@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="43680d60-1d1d-429e-ab9e-f844ba85b4e8" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1WvXkTtXF6vq56tAMsLkl5utnS6" />
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="TestNG.PetClinicTestPageObject">
+    <configuration name="PetClinicTestPageObject" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Selenide" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.petclinic.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.petclinic" />
+      <option name="MAIN_CLASS_NAME" value="com.petclinic.PetClinicTestPageObject" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PetClinicTestPageObject.AddNewOwnerValidData" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Selenide" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.petclinic.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.petclinic" />
+      <option name="MAIN_CLASS_NAME" value="com.petclinic.PetClinicTestPageObject" />
+      <option name="METHOD_NAME" value="AddNewOwnerValidData" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PetClinicTestPageObject.addSpecialty" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Selenide" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.petclinic.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.petclinic" />
+      <option name="MAIN_CLASS_NAME" value="com.petclinic.PetClinicTestPageObject" />
+      <option name="METHOD_NAME" value="addSpecialty" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PetClinicTestPageObject.checkInfMessageFirstName" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Selenide" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.petclinic.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.petclinic" />
+      <option name="MAIN_CLASS_NAME" value="com.petclinic.PetClinicTestPageObject" />
+      <option name="METHOD_NAME" value="checkInfMessageFirstName" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PetClinicTestPageObject.createPetTypes" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Selenide" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.petclinic.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.petclinic" />
+      <option name="MAIN_CLASS_NAME" value="com.petclinic.PetClinicTestPageObject" />
+      <option name="METHOD_NAME" value="createPetTypes" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.PetClinicTestPageObject" />
+        <item itemvalue="TestNG.PetClinicTestPageObject.AddNewOwnerValidData" />
+        <item itemvalue="TestNG.PetClinicTestPageObject.addSpecialty" />
+        <item itemvalue="TestNG.PetClinicTestPageObject.createPetTypes" />
+        <item itemvalue="TestNG.PetClinicTestPageObject.checkInfMessageFirstName" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="43680d60-1d1d-429e-ab9e-f844ba85b4e8" name="Default Changelist" comment="" />
+      <created>1580031184645</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580031184645</updated>
+    </task>
+    <servers />
+  </component>
+</project>
