@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="43680d60-1d1d-429e-ab9e-f844ba85b4e8" name="Default Changelist" comment="" />
+    <list default="true" id="43680d60-1d1d-429e-ab9e-f844ba85b4e8" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/petclinic/AddNewOwnerPageObject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/petclinic/AddNewOwnerPageObject.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/petclinic/AddNewOwnerPageObject.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/petclinic/NewOwnerPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/petclinic/NewVeterinarianPageObject.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/petclinic/OwnerTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/petclinic/PetClinicTestPageObject.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/petclinic/PetTypesPageObject.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/petclinic/SpecialtiesPageObject.class" beforeDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

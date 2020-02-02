@@ -1,7 +1,6 @@
 package com.petclinic;
 
 import com.codeborne.selenide.Condition;
-import com.sun.org.glassfish.external.probe.provider.annotations.ProbeListener;
 import org.openqa.selenium.By;
 import org.openqa.selenium.Keys;
 
