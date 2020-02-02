@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="43680d60-1d1d-429e-ab9e-f844ba85b4e8" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/petclinic/AddNewOwnerPageObject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/petclinic/AddNewOwnerPageObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/testng.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/testng.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/target/test-classes/com/petclinic/AddNewOwnerPageObject.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/target/test-classes/com/petclinic/NewOwnerPage.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/target/test-classes/com/petclinic/NewVeterinarianPageObject.class" beforeDir="false" />
@@ -37,8 +40,8 @@
   <component name="ProjectId" id="1WvXkTtXF6vq56tAMsLkl5utnS6" />
   <component name="PropertiesComponent">
     <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
