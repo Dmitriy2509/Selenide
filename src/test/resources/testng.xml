@@ -1,9 +1,10 @@
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
 
-<suite name="UI test suite" verbose="1" parallel="classes" thread-count="2" >
+<suite name="UI test suite" verbose="1" >
 
     <test name="Add new Owner test" >
         <classes>
+
             <class name="com.petclinic.PetClinicTestPageObject"/>
 
         </classes>
